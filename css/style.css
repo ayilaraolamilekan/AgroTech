@@ -1,0 +1,10 @@
+.category{
+    line-height: 3em;
+    text-decoration: none;
+}
+@media (min-width: 992px) {
+    .li{height: 173px}
+}
+@media (max-width: 992px) {
+    .li{height: 113px}
+}
